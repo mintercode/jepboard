@@ -1,0 +1,20 @@
+{
+  "name": "jepboard",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintercode/jepboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintercode/jepboard/issues"
+  },
+  "homepage": "https://github.com/mintercode/jepboard#readme",
+  "devDependencies": {
+    "cssnano": "^5.1.14",
+    "postcss": "^8.4.21"
+  }
+}
